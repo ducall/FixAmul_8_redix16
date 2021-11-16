@@ -1,0 +1,79 @@
+D:/mul_code/FixAMul1.1.0/sim/tb_int8mul.sv {1 {vlog -work work -vopt -sv -stats=none D:/mul_code/FixAMul1.1.0/sim/tb_int8mul.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module tb_int8mul
+
+Top level modules:
+	tb_int8mul
+
+} {} {}} D:/mul_code/FixAMul1.1.0/PreprocessUnit.SV {1 {vlog -work work -vopt -sv -stats=none D:/mul_code/FixAMul1.1.0/PreprocessUnit.SV
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module PreprocessUnit
+
+Top level modules:
+	PreprocessUnit
+
+} {} {}} D:/mul_code/FixAMul1.1.0/MulUnit.sv {1 {vlog -work work -vopt -sv -stats=none D:/mul_code/FixAMul1.1.0/MulUnit.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module MulUnit
+
+Top level modules:
+	MulUnit
+
+} {} {}} D:/mul_code/FixAMul1.1.0/BoothEncode.sv {1 {vlog -work work -vopt -sv -stats=none D:/mul_code/FixAMul1.1.0/BoothEncode.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module BoothEncode
+
+Top level modules:
+	BoothEncode
+
+} {} {}} D:/mul_code/FixAMul1.1.0/SignedShiftLeft.sv {2 {vlog -work work -vopt -sv -stats=none D:/mul_code/FixAMul1.1.0/SignedShiftLeft.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module SignedShiftLeft
+** Warning: D:/mul_code/FixAMul1.1.0/SignedShiftLeft.sv(20): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+** Warning: D:/mul_code/FixAMul1.1.0/SignedShiftLeft.sv(21): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+** Warning: D:/mul_code/FixAMul1.1.0/SignedShiftLeft.sv(21): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+** Warning: D:/mul_code/FixAMul1.1.0/SignedShiftLeft.sv(22): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+** Warning: D:/mul_code/FixAMul1.1.0/SignedShiftLeft.sv(29): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+** Warning: D:/mul_code/FixAMul1.1.0/SignedShiftLeft.sv(30): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+** Warning: D:/mul_code/FixAMul1.1.0/SignedShiftLeft.sv(30): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+** Warning: D:/mul_code/FixAMul1.1.0/SignedShiftLeft.sv(31): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+** Warning: D:/mul_code/FixAMul1.1.0/SignedShiftLeft.sv(38): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+** Warning: D:/mul_code/FixAMul1.1.0/SignedShiftLeft.sv(39): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+** Warning: D:/mul_code/FixAMul1.1.0/SignedShiftLeft.sv(39): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+** Warning: D:/mul_code/FixAMul1.1.0/SignedShiftLeft.sv(40): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+** Warning: D:/mul_code/FixAMul1.1.0/SignedShiftLeft.sv(42): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+** Warning: D:/mul_code/FixAMul1.1.0/SignedShiftLeft.sv(42): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+** Warning: D:/mul_code/FixAMul1.1.0/SignedShiftLeft.sv(43): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+
+Top level modules:
+	SignedShiftLeft
+
+} {} {}} D:/mul_code/FixAMul1.1.0/Mask.sv {1 {vlog -work work -vopt -sv -stats=none D:/mul_code/FixAMul1.1.0/Mask.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Mask
+
+Top level modules:
+	Mask
+
+} {} {}} D:/mul_code/FixAMul1.1.0/ComputeUnit.sv {1 {vlog -work work -vopt -sv -stats=none D:/mul_code/FixAMul1.1.0/ComputeUnit.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module ComputeUnit
+
+Top level modules:
+	ComputeUnit
+
+} {} {}} D:/mul_code/FixAMul1.1.0/int8Mul.sv {1 {vlog -work work -vopt -sv -stats=none D:/mul_code/FixAMul1.1.0/int8Mul.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module int8Mul
+
+Top level modules:
+	int8Mul
+
+} {} {}} D:/mul_code/FixAMul1.1.0/EnReg.sv {1 {vlog -work work -vopt -sv -stats=none D:/mul_code/FixAMul1.1.0/EnReg.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module EnReg
+
+Top level modules:
+	EnReg
+
+} {} {}}
